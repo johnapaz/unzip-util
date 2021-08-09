@@ -1,5 +1,5 @@
 # About unzip-util
-These are a set of simple python scripts to use with GitHub Actions to use with [Paligo](https://paligo.net/). Used in combination with GitHub Pages, these scripts allow you to automatically push changes from Paligo that are automatically updated in the live version of the documentation. 
+These are a set of python scripts to use with GitHub Actions to publish [Paligo](https://paligo.net/) content. Used in combination with GitHub Pages, these scripts allow you to push changes from Paligo that are automatically updated in the live version of the documentation. 
 
 # Prerequisites
 You must first [connect Paligo to GitHub](https://paligo.net/docs/en/github-integration.html#connect-paligo-to-github) in order to use these scripts.
